@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/api/.vs/StockTracker.API/FileContentIndex
+/api/StockTracker.API/bin/Debug/net6.0
+/api/StockTracker.API/obj
